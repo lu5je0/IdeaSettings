@@ -1,6 +1,6 @@
 <keymap version="1" name="Default copy 1" parent="$default">
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CompareCells" />
@@ -21,6 +21,7 @@
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="GotoTest" />
+  <action id="HippieCompletion" />
   <action id="Images.ShowThumbnails" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
@@ -31,7 +32,6 @@
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SendEOF" />
   <action id="SetShortcutAction" />
-  <action id="ShowIntentionActions" />
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
   <action id="openAssertEqualsDiff" />
